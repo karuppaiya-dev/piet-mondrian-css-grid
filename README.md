@@ -4,7 +4,7 @@ A simple art project inspired by Piet Mondrian.
 Created using only **HTML** and **CSS Grid** to practice layout techniques.
 
 <p align="center">
-  <img src="./assets/images/mondrian-preview.png" width="70%" alt="Mondrian Project Preview" />
+  <img src="./assets/images/preview.png" width="70%" alt="Mondrian Project Preview" />
 </p>
 
 ## Features
