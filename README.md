@@ -1,5 +1,8 @@
 # Mondrian CSS Grid Art
 
+## 🚀 Live Demo
+[View Live Demo](https://karuppaiya-dev.github.io/piet-mondrian-css-grid/)
+
 A simple art project inspired by Piet Mondrian.  
 Created using only **HTML** and **CSS Grid** to practice layout techniques.
 
